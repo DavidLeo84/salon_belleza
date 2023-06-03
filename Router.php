@@ -19,6 +19,7 @@ class Router
 
     public function comprobarRutas()
     {
+        //commit de prueba
         
         // Proteger Rutas...
         session_start();
